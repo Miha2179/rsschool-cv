@@ -24,7 +24,6 @@ function multiply(a, b) {  a * b
 
 
 * Learning CV project: https://Miha2179.github.io/rsschool-cv/cv
- cv.md
 ## 7. Education:
 
 
